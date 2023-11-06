@@ -1,6 +1,0 @@
-l = [99, 2, 2, 23, 19]
-l2=[]
-l.sort()
-l2.append(max(l))
-l2.append(l[-2])
-print (sum(l2))
